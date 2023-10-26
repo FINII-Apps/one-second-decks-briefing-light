@@ -11,13 +11,13 @@
 
 ## Inhalt
 [**Installation Options**](#font-installation)
-  * [**1 - Manual**](#option-1-download-and-install-manually)
-  * [**2 - Release Archive Download**](#option-2-release-archive-download)
+  * [**1 - Bedienung**](#bedienung)
+  * [**2 - Installation**](#installation)
 
 ## Bedienung
 xxxx
 
-## Font Installation
+## Installation
 
 ### `Step 1: Download and Install Manually`
 
