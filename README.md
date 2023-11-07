@@ -19,5 +19,5 @@
 ![- Bild fehlt -](https://github.com/FINII-Apps/one-second-decks-briefing-light/blob/main/screenshot.png?raw=true "Output of Script")
 
 **Weitere interessante Apps**
-- [Brainstorm]([https://www.google.com/](https://github.com/FINII-Apps/one-second-decks-brainstorm-light)https://github.com/FINII-Apps/one-second-decks-brainstorm-light)
-- [Brainstorm]([https://www.google.com/](https://github.com/FINII-Apps/one-second-decks-report-light)https://github.com/FINII-Apps/one-second-decks-brainstorm-light)
+- [Report Light](https://www.google.com/](https://github.com/FINII-Apps/one-second-decks-report-light "Zur App")
+
