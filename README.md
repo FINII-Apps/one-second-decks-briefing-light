@@ -20,4 +20,6 @@
 
 **Weitere interessante Apps**
 - [Report Light](https://github.com/FINII-Apps/one-second-decks-report-light "Zur App")
+- [Workshop Light](https://github.com/FINII-Apps/one-second-decks-workshop-light "Zur App")
+- [Brainstorm Light](https://github.com/FINII-Apps/one-second-decks-brainstorm-light "Zur App")
 
